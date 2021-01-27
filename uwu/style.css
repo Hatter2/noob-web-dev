@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+  text-align: center;
+}
+body{
+  font-family: sans-serif;
+  background-color: #A9A9A9;
+  color: #4B0082;
+}
+.box{
+  background-color: #8B0000;
+  height:32em;
+  width: 32em;
+  margin:10em;
+}
